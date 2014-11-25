@@ -6,7 +6,7 @@ Using Template7 for an autocompleted list
 
 Screenshot
 ===================
-![Cities]()
+Coming soon
 
 License
 =======
