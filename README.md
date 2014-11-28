@@ -6,7 +6,8 @@ Using Template7 for an autocompleted list
 
 Screenshot
 ===================
-Coming soon
+![Autocomplete](https://dl.dropboxusercontent.com/u/31870855/Forum/fw7_autocomplete.JPG)
+
 
 License
 =======
